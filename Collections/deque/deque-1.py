@@ -11,3 +11,5 @@ print(q)
 # pops left elem of the list
 q.popleft()
 print(q)
+
+# deque was used in BFS algorithm
