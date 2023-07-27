@@ -6,3 +6,6 @@ print(xs.reverse())  # None
 print(xs)  # it reverses it inplace with no output at very beginning
 
 # the same thing is about sort and sorted
+
+print(xs.sort())
+print(sorted(xs))
