@@ -7,3 +7,4 @@ print(c)
 # Count counts all hashable elems
 
 print(c['foo'])
+# it's also used a lot in codewars challenges
