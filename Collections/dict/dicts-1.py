@@ -36,3 +36,5 @@ print(d)  # {'foo': 'bar', 'boo': '???'}
 
 d.setdefault('foo', '???')
 print(d)  # {'foo': 'bar', 'boo': '???'}
+
+# these methods are useful
